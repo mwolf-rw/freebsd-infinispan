@@ -1,0 +1,4 @@
+generate_plist.sh
+make_test.sh
+databases/infinispan/work
+*.swp
